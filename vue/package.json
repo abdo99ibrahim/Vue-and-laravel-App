@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@headlessui/vue": "^1.7.5",
+    "@heroicons/vue": "^2.0.13",
+    "@tailwindcss/forms": "^0.5.3",
     "vue": "^3.2.45",
+    "vue-router": "^4.0.13",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
